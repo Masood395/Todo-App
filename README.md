@@ -173,7 +173,3 @@ Developed by [Mahammad Masood](https://github.com/Masood395)
 🚀 Open to contributions & suggestions!
 
 ```
-
-
-Do you also want me to add **GitHub badges** (Java version, Spring Boot, Build passing) at the very top for a more professional look?
-```
